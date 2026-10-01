@@ -2,11 +2,15 @@
  "schema": 1,
  "planId": "nalsem",
  "month": "2026-10",
- "generatedAt": "2026-10-01T05:04:41+09:00",
+ "generatedAt": "2026-10-02T05:21:51+09:00",
  "days": [
   {
    "date": "2026-10-01",
    "reference": "왕상12:1-11"
+  },
+  {
+   "date": "2026-10-02",
+   "reference": "왕상12:12-24"
   }
  ]
 }
