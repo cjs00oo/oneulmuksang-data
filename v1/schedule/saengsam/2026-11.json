@@ -2,11 +2,15 @@
  "schema": 1,
  "planId": "saengsam",
  "month": "2026-11",
- "generatedAt": "2026-11-01T04:20:12+09:00",
+ "generatedAt": "2026-11-02T04:43:29+09:00",
  "days": [
   {
    "date": "2026-11-01",
    "reference": "몬1:1-14"
+  },
+  {
+   "date": "2026-11-02",
+   "reference": "몬1:15-25"
   }
  ]
 }
